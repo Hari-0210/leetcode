@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hari-0210/leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Hari-0210/leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Hari-0210/leetcode/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Hari-0210/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
