@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hari-0210/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hari-0210/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hari-0210/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Hari-0210/leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Hari-0210/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hari-0210/leetcode/tree/master/0055-jump-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hari-0210/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hari-0210/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Hari-0210/leetcode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
