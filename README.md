@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Hari-0210/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hari-0210/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Hari-0210/leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Hari-0210/leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hari-0210/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hari-0210/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Hari-0210/leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Hari-0210/leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hari-0210/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hari-0210/leetcode/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Hari-0210/leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
