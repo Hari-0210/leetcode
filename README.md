@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hari-0210/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hari-0210/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hari-0210/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hari-0210/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hari-0210/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hari-0210/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
 | ------- |
