@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Hari-0210/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hari-0210/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2048-build-array-from-permutation](https://github.com/Hari-0210/leetcode/tree/master/2048-build-array-from-permutation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hari-0210/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Dynamic Programming
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Hari-0210/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Hari-0210/leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
