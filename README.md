@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Hari-0210/leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hari-0210/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
