@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hari-0210/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/Hari-0210/leetcode/tree/master/2048-build-array-from-permutation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hari-0210/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Hari-0210/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Hari-0210/leetcode/tree/master/0200-number-of-islands) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Hari-0210/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Tree
 |  |
 | ------- |
@@ -137,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Hari-0210/leetcode/tree/master/2048-build-array-from-permutation) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Hari-0210/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Hari-0210/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Hari-0210/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
