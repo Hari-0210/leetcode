@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hari-0210/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Hari-0210/leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hari-0210/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Hari-0210/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Hari-0210/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hari-0210/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hari-0210/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Hari-0210/leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Hari-0210/leetcode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Hari-0210/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Hari-0210/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Hari-0210/leetcode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hari-0210/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
