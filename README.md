@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hari-0210/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hari-0210/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Hari-0210/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Hari-0210/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Hari-0210/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Hari-0210/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Hari-0210/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Hari-0210/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hari-0210/leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Hari-0210/leetcode/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Hari-0210/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0200-number-of-islands](https://github.com/Hari-0210/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hari-0210/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Hari-0210/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Hari-0210/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sliding Window
