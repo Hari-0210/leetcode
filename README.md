@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Hari-0210/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hari-0210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hari-0210/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/Hari-0210/leetcode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Hari-0210/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Hari-0210/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Hari-0210/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3321-type-of-triangle](https://github.com/Hari-0210/leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Hari-0210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Hari-0210/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Hari-0210/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/Hari-0210/leetcode/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
