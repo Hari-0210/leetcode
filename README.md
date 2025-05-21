@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Hari-0210/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Hari-0210/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hari-0210/leetcode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Hari-0210/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Hari-0210/leetcode/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Hari-0210/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Hari-0210/leetcode/tree/master/0134-gas-station) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hari-0210/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hari-0210/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Hari-0210/leetcode/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/Hari-0210/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Hari-0210/leetcode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Hari-0210/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Hari-0210/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Hari-0210/leetcode/tree/master/0200-number-of-islands) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Hari-0210/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Tree
