@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Hari-0210/leetcode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Hari-0210/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/Hari-0210/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Hari-0210/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Hari-0210/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Hari-0210/leetcode/tree/master/0134-gas-station) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hari-0210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Hari-0210/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Hari-0210/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/Hari-0210/leetcode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/Hari-0210/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Hari-0210/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Hari-0210/leetcode/tree/master/0238-product-of-array-except-self) |
 | [3639-zero-array-transformation-i](https://github.com/Hari-0210/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Hari-0210/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Hari-0210/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Hari-0210/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Shortest Path
 |  |
 | ------- |
