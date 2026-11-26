@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Hari-0210/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Hari-0210/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hari-0210/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Hari-0210/leetcode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Hari-0210/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/Hari-0210/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Hari-0210/leetcode/tree/master/0509-fibonacci-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Hari-0210/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Hari-0210/leetcode/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Hari-0210/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Hari-0210/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Hari-0210/leetcode/tree/master/0509-fibonacci-number) |
@@ -230,5 +232,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Hari-0210/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Hari-0210/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
