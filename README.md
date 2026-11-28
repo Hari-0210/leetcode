@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Hari-0210/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Hari-0210/leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Hari-0210/leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Hari-0210/leetcode/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Hari-0210/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Hari-0210/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Hari-0210/leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Hari-0210/leetcode/tree/master/0443-string-compression) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Hari-0210/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hari-0210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Hari-0210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
