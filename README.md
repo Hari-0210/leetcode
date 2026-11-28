@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Hari-0210/leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Hari-0210/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Hari-0210/leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Hari-0210/leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Hari-0210/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Hari-0210/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Hari-0210/leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Hari-0210/leetcode/tree/master/0567-permutation-in-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Hari-0210/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Hari-0210/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Hari-0210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Hari-0210/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Hari-0210/leetcode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Hari-0210/leetcode/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/Hari-0210/leetcode/tree/master/0567-permutation-in-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Hari-0210/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Hari-0210/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Hari-0210/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hari-0210/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hari-0210/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Hari-0210/leetcode/tree/master/0567-permutation-in-string) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Hari-0210/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
